@@ -1,9 +1,9 @@
-function subractTwoNumber(num1,num2)
+function divisionTwoNumber(num1,num2)
 {
     let result;
-    result=num1-num2;
+    result=num1/num2;
     return result;
      
 }
-let result=subractTwoNumber(10,5)
+let result=divisionTwoNumber(10,5)
 console.log (result);
